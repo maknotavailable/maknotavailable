@@ -1,5 +1,10 @@
 ### Welcome 👋
 
+get in touch for ...
+- freelance data science opportunities \[NLP, Time Series]
+- freelance cloud opportunities \[Azure, AWS]
+- curiosity / open exchange
+
 <!--
 **maknotavailable/maknotavailable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
