@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-🌱 join us at [seenons](https://seenons.com/en/werken-bij-ons/) 
+🌱 join us at [seenons](https://seenons.com/)
 
 <!--
 **maknotavailable/maknotavailable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
